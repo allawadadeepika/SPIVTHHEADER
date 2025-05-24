@@ -1,8 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this app:
 
-Currently, two official plugins are available:
+I have taken external link for the user details to render
+Initially the home page appears saying login
+There just you need to enter your name and click the button login to go to main page(to test the button functionality i have included this)
+in the next page you can see the header which is BrowserRouter linked to route into another page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+here my main goal is to check the functionality of how we can change into different pages via links by staying in single page
